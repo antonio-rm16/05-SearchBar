@@ -1,14 +1,17 @@
 import './table.css';
 
 export default function Table({children}){
-    return (
+    return (<>
         <div className="grid">
             <h3>Nombre</h3>
             <h3>Apellido</h3>
             <h3>email</h3>
             <h3>Deuda</h3>
-
-            {children}
         </div>
+        <div>
+            {children}
+            
+        </div>
+        </>
     )
 }

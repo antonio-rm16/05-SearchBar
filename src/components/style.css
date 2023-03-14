@@ -1,0 +1,34 @@
+.searchBar{
+    width: 90%;
+    margin: 10px auto;
+    display: flex;
+    box-shadow: lightgray -5px 3px 6px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    margin:30px auto;
+}
+h2{
+    width: 90%;
+    margin: 10px auto;
+    color: green;
+}
+.searchIcon{
+width: 70px;
+height: 50px;
+}
+
+input{
+width: 100%;
+height: 50px;
+font-size: 18pt;
+border-radius: 5px;
+border: none;
+outline: none;
+border-bottom: 3px gray solid;
+}
+p{
+    font-size: 14pt;
+}
+

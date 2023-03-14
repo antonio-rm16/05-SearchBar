@@ -5,6 +5,14 @@
 
 p{
     margin:0;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    margin: 10px 30px;
+    background-color: rgb(233, 229, 229);
+    border-radius: 20px;
+    font-size: 16pt;
 }
 
 .odd{
